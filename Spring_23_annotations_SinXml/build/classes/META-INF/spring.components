@@ -1,0 +1,5 @@
+#
+#Fri Aug 02 05:08:55 ART 2019
+es.Spring.pruebaAnotations.InformeFinancieroTrim1=org.springframework.stereotype.Component
+es.Spring.pruebaAnotations.ComercialExperimentado=org.springframework.stereotype.Component
+es.Spring.pruebaAnotations.EmpleadosConfig=org.springframework.stereotype.Component
